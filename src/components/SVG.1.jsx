@@ -85,7 +85,7 @@ const icons = {
   },
 }
 
-const SVG = ({ stroke, fill, width, icon, left, top, hiddenMobile }) => (
+const IMG = ({ stroke, fill, width, icon, left, top, hiddenMobile }) => (
   <Wrapper
     viewBox={icons[icon].viewBox}
     stroke={stroke}

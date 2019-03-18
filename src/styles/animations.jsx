@@ -34,7 +34,7 @@ const upDown = keyframes`
 const upDownWide = keyframes`
   from {
     transform: translateY(0);
-  }
+    
   to {
     transform: translateY(200px);
   }
